@@ -1,0 +1,18 @@
+a { text-decoration:none !important }
+a:hover { text-decoration:underline !important }
+
+
+
+h1,h3 {
+  font-size: 30px;
+  line-height: 1;
+  letter-spacing: 1px;
+  color: red;
+  border: 1px solid black;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1;
+  letter-spacing: 1px;
+}
